@@ -43,6 +43,5 @@ python assis.py
 ### 4. Launch the App
 Start the Streamlit server:
 ```bash
-streamlit run app_2.py
+streamlit run app.py
 ```
-*(Note: If your Streamlit file is named `app.py`, run `streamlit run app.py` instead).*
